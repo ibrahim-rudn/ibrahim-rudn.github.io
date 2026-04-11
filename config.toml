@@ -3,6 +3,6 @@ title = "Ibrahim Hisseine Gana"
 theme = "hugo-theme-terminal"
 
 [params]
+  contentTypeName = "posts"
   author = "Ibrahim Hisseine Gana"
   description = "Сайт научного работника"
-  bio = "Краткое описание владельца сайта"
