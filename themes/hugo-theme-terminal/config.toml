@@ -1,0 +1,8 @@
+baseURL = "https://ibrahim-rudn.github.io/"
+title = "Ibrahim Hisseine Gana"
+theme = "hugo-theme-terminal"
+
+[params]
+  author = "Ibrahim Hisseine Gana"
+  description = "Сайт научного работника"
+  bio = "Краткое описание владельца сайта"
