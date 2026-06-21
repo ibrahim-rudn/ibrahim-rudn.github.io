@@ -6,6 +6,21 @@
     <description>Recent content on Ibrahim Hisseine Gana</description>
     <generator>Hugo</generator>
     <language>en</language>
+    <lastBuildDate>Sun, 21 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ibrahim-rudn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Моя неделя (21-27 июня 2026)</title>
+      <link>https://ibrahim-rudn.github.io/posts/week-1/</link>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://ibrahim-rudn.github.io/posts/week-1/</guid>
+      <description>&lt;p&gt;На этой неделе я работал над созданием своего персонального сайта с использованием Hugo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>О себе</title>
+      <link>https://ibrahim-rudn.github.io/about/</link>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://ibrahim-rudn.github.io/about/</guid>
+      <description>&lt;p&gt;Студент факультета физико-математических и естественных наук в РУДН.&lt;br&gt;&#xA;Интересуюсь программированием, системным администрированием и искусственным интеллектом.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
