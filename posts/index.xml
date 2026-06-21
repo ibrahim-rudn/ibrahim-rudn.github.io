@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Ibrahim Hisseine Gana</title>
-    <link>https://ibrahim-rudn.github.io/posts/</link>
-    <description>Recent content in Posts on Ibrahim Hisseine Gana</description>
+    <title>Posts on </title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 21 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ibrahim-rudn.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Моя неделя (21-27 июня 2026)</title>
-      <link>https://ibrahim-rudn.github.io/posts/week-1/</link>
+      <title>Моя неделя</title>
+      <link>/posts/week-1/</link>
       <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://ibrahim-rudn.github.io/posts/week-1/</guid>
+      <guid>/posts/week-1/</guid>
       <description>&lt;p&gt;На этой неделе я работал над созданием своего персонального сайта с использованием Hugo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Управление версиями. Git</title>
+      <link>/posts/git/</link>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>/posts/git/</guid>
+      <description>&lt;p&gt;Git — это система управления версиями, которая позволяет отслеживать изменения в файлах.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
